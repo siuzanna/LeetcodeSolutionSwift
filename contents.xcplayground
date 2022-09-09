@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1480. Running Sum of 1d Array'/>
+        <page name='1672. Richest Customer Wealth'/>
+    </pages>
+</playground>
