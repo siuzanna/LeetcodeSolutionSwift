@@ -8,5 +8,7 @@
         <page name='876. Middle of the Linked List'/>
         <page name='242. Valid Anagram '/>
         <page name='169. Majority Element '/>
+        <page name='263. Ugly Number'/>
+        <page name='258. Add Digits '/>
     </pages>
 </playground>
