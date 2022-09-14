@@ -11,5 +11,7 @@
         <page name='263. Ugly Number'/>
         <page name='258. Add Digits '/>
         <page name='1450. Number of Students Doing Homework at a Given Time '/>
+        <page name='896. Monotonic Array '/>
+        <page name='387. First Unique Character in a String'/>
     </pages>
 </playground>
